@@ -22,7 +22,7 @@ public class NumberServiceImpl implements NumberService {
   public NumberDto create() {
     Random rd = new Random();
     NumberDto number = new NumberDto();
-    number.setValue(rd.nextInt());
+    number.setValue(rd.nextInt(100) + 1);
     return numberConverter.convertToDto(numberRepository.save(numberConverter.convertToEntity(number)));
   }
 }
