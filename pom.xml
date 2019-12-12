@@ -84,8 +84,8 @@
         <version>1.8.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>app-1576175819910-rg</resourceGroup>
-          <appName>app-1576175819910</appName>
+          <resourceGroup>app-rg</resourceGroup>
+          <appName>app</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
           <runtime>
