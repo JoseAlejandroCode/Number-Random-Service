@@ -77,42 +77,7 @@
       <plugin> 
         <groupId>org.springframework.boot</groupId>  
         <artifactId>spring-boot-maven-plugin</artifactId> 
-      </plugin>  
-      <plugin> 
-        <groupId>com.microsoft.azure</groupId>  
-        <artifactId>azure-webapp-maven-plugin</artifactId>  
-        <version>1.8.0</version>  
-        <configuration>
-          <schemaVersion>V2</schemaVersion>
-          <resourceGroup>app-rg</resourceGroup>
-          <appName>app</appName>
-          <pricingTier>P1v2</pricingTier>
-          <region>westeurope</region>
-          <runtime>
-            <os>linux</os>
-            <javaVersion>jre8</javaVersion>
-            <webContainer>jre8</webContainer>
-          </runtime>
-					<!-- Begin of App Settings  -->
-					<appSettings>
-						<property>
-							<name>JAVA_OPTS</name>
-							<value>-D server.port=80</value>
-						</property>
-					</appSettings>
-					<!-- End of App Settings  -->
-          <deployment>
-            <resources>
-              <resource>
-                <directory>${project.basedir}/wwwroot</directory>
-                <includes>
-                  <include>*.jar</include>
-                </includes>
-              </resource>
-            </resources>
-          </deployment>
-        </configuration>
-      </plugin> 
+      </plugin>
     </plugins> 
   </build> 
 </project>
