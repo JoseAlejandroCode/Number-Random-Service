@@ -1,0 +1,111 @@
+2021-08-03T00:07:37,328-0500 [2516 1] com.newrelic INFO: Writing to New Relic log file: D:\Desarrollo\Everis\Number-Random-Service\logs\newrelic_agent.log
+2021-08-03T00:07:37,328-0500 [2516 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_231
+2021-08-03T00:07:37,328-0500 [2516 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.231-b11
+2021-08-03T00:07:37,328-0500 [2516 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-08-03T00:07:37,329-0500 [2516 1] com.newrelic INFO: Agent Host: DESKTOP-Q9QGGL2 IP: 192.168.100.23
+2021-08-03T00:07:37,329-0500 [2516 1] com.newrelic INFO: New Relic Agent v7.1.1 is initializing...
+2021-08-03T00:07:37,967-0500 [2516 9] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-08-03T00:07:39,428-0500 [2516 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-08-03T00:07:40,341-0500 [2516 1] com.newrelic INFO: Setting audit_mode to false
+2021-08-03T00:07:40,588-0500 [2516 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Desarrollo\Everis\Number-Random-Service\.\newrelic.yml
+2021-08-03T00:07:40,599-0500 [2516 1] com.newrelic INFO: New Relic Agent v7.1.1 has started
+2021-08-03T00:07:40,599-0500 [2516 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7e0b37bc
+2021-08-03T00:07:40,599-0500 [2516 1] com.newrelic INFO: Premain startup complete in 4,209ms
+2021-08-03T00:07:40,636-0500 [2516 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-08-03T00:07:40,665-0500 [2516 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-08-03T00:10:24,213-0500 [10652 1] com.newrelic INFO: Writing to New Relic log file: D:\Desarrollo\Everis\Number-Random-Service\logs\newrelic_agent.log
+2021-08-03T00:10:24,213-0500 [10652 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_231
+2021-08-03T00:10:24,213-0500 [10652 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.231-b11
+2021-08-03T00:10:24,213-0500 [10652 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-08-03T00:10:24,214-0500 [10652 1] com.newrelic INFO: Agent Host: DESKTOP-Q9QGGL2 IP: 192.168.100.23
+2021-08-03T00:10:24,214-0500 [10652 1] com.newrelic INFO: New Relic Agent v7.1.1 is initializing...
+2021-08-03T00:10:24,807-0500 [10652 9] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-08-03T00:10:26,398-0500 [10652 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-08-03T00:10:27,284-0500 [10652 1] com.newrelic INFO: Setting audit_mode to false
+2021-08-03T00:10:27,543-0500 [10652 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Desarrollo\Everis\Number-Random-Service\.\newrelic.yml
+2021-08-03T00:10:27,555-0500 [10652 1] com.newrelic INFO: New Relic Agent v7.1.1 has started
+2021-08-03T00:10:27,555-0500 [10652 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6ae40994
+2021-08-03T00:10:27,556-0500 [10652 1] com.newrelic INFO: Premain startup complete in 4,094ms
+2021-08-03T00:10:31,123-0500 [10652 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.27
+2021-08-03T00:10:32,562-0500 [10652 31] com.newrelic INFO: Host name is DESKTOP-Q9QGGL2, display host DESKTOP-Q9QGGL2 for application Number Random
+2021-08-03T00:10:32,563-0500 [10652 31] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-08-03T00:10:33,526-0500 [10652 31] com.newrelic INFO: Collector redirection to collector-004.newrelic.com:443
+2021-08-03T00:10:34,299-0500 [10652 31] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-08-03T00:10:34,299-0500 [10652 31] com.newrelic INFO: Agent run id: BaviGG2SIKwXADGesTzYeKZhCNAgAAIBAAAnIQEAACmcAgQ82HiiAwAFNy4xLjEAD0RFU0tUT1AtUTlRR0dMMgANTnVtYmVyIFJhbmRvbQ
+2021-08-03T00:10:34,300-0500 [10652 31] com.newrelic INFO: Agent 10652@DESKTOP-Q9QGGL2/Number Random connected to collector.newrelic.com:443
+2021-08-03T00:10:34,300-0500 [10652 31] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3251889/applications/1020819618
+2021-08-03T00:10:34,301-0500 [10652 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:10:34,301-0500 [10652 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:10:34,301-0500 [10652 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:10:34,304-0500 [10652 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:10:34,304-0500 [10652 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:10:34,304-0500 [10652 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:10:34,603-0500 [10652 31] com.newrelic INFO: Real user monitoring is enabled for application Number Random. Auto instrumentation is enabled.
+2021-08-03T00:10:34,632-0500 [10652 31] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-08-03T00:25:54,772-0500 [10652 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-08-03T00:25:54,817-0500 [10652 55] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@36afa6cd tried to finish but ServiceManager not started
+2021-08-03T00:25:54,973-0500 [10652 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: Writing to New Relic log file: D:\Desarrollo\Everis\Number-Random-Service\logs\newrelic_agent.log
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_231
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.231-b11
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: Agent Host: DESKTOP-Q9QGGL2 IP: 192.168.100.23
+2021-08-03T00:31:35,045-0500 [13908 1] com.newrelic INFO: New Relic Agent v7.1.1 is initializing...
+2021-08-03T00:31:35,637-0500 [13908 9] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-08-03T00:31:37,360-0500 [13908 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-08-03T00:31:38,205-0500 [13908 1] com.newrelic INFO: Setting audit_mode to false
+2021-08-03T00:31:38,453-0500 [13908 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Desarrollo\Everis\Number-Random-Service\.\newrelic.yml
+2021-08-03T00:31:38,464-0500 [13908 1] com.newrelic INFO: New Relic Agent v7.1.1 has started
+2021-08-03T00:31:38,464-0500 [13908 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6ae40994
+2021-08-03T00:31:38,464-0500 [13908 1] com.newrelic INFO: Premain startup complete in 4,177ms
+2021-08-03T00:31:41,652-0500 [13908 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.27
+2021-08-03T00:31:43,469-0500 [13908 31] com.newrelic INFO: Host name is DESKTOP-Q9QGGL2, display host DESKTOP-Q9QGGL2 for application Number Random
+2021-08-03T00:31:43,469-0500 [13908 31] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-08-03T00:31:44,013-0500 [13908 31] com.newrelic INFO: Collector redirection to collector-004.newrelic.com:443
+2021-08-03T00:31:44,558-0500 [13908 31] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-08-03T00:31:44,558-0500 [13908 31] com.newrelic INFO: Agent run id: BSrwzu7AnhJpADGesTzYeKZhCNUMAAIBAAAnIQEAADZUAgQ82HiiAwAFNy4xLjEAD0RFU0tUT1AtUTlRR0dMMgANTnVtYmVyIFJhbmRvbQ
+2021-08-03T00:31:44,559-0500 [13908 31] com.newrelic INFO: Agent 13908@DESKTOP-Q9QGGL2/Number Random connected to collector.newrelic.com:443
+2021-08-03T00:31:44,559-0500 [13908 31] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3251889/applications/1020819618
+2021-08-03T00:31:44,560-0500 [13908 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:31:44,561-0500 [13908 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:31:44,561-0500 [13908 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:31:44,563-0500 [13908 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:31:44,563-0500 [13908 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:31:44,563-0500 [13908 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:31:44,848-0500 [13908 31] com.newrelic INFO: Real user monitoring is enabled for application Number Random. Auto instrumentation is enabled.
+2021-08-03T00:31:44,849-0500 [13908 31] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-08-03T00:32:06,397-0500 [13908 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-08-03T00:32:06,444-0500 [13908 55] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@3cbd809f tried to finish but ServiceManager not started
+2021-08-03T00:32:06,689-0500 [13908 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-08-03T00:38:56,956-0500 [16480 1] com.newrelic INFO: Writing to New Relic log file: D:\Desarrollo\Everis\Number-Random-Service\logs\newrelic_agent.log
+2021-08-03T00:38:56,956-0500 [16480 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_231
+2021-08-03T00:38:56,956-0500 [16480 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.231-b11
+2021-08-03T00:38:56,956-0500 [16480 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-08-03T00:38:56,956-0500 [16480 1] com.newrelic INFO: Agent Host: DESKTOP-Q9QGGL2 IP: 192.168.100.23
+2021-08-03T00:38:56,957-0500 [16480 1] com.newrelic INFO: New Relic Agent v7.1.1 is initializing...
+2021-08-03T00:38:57,532-0500 [16480 9] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-08-03T00:38:59,018-0500 [16480 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-08-03T00:38:59,843-0500 [16480 1] com.newrelic INFO: Setting audit_mode to false
+2021-08-03T00:39:00,102-0500 [16480 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Desarrollo\Everis\Number-Random-Service\.\newrelic.yml
+2021-08-03T00:39:00,114-0500 [16480 1] com.newrelic INFO: New Relic Agent v7.1.1 has started
+2021-08-03T00:39:00,115-0500 [16480 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6ae40994
+2021-08-03T00:39:00,115-0500 [16480 1] com.newrelic INFO: Premain startup complete in 3,905ms
+2021-08-03T00:39:03,186-0500 [16480 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.27
+2021-08-03T00:39:05,119-0500 [16480 31] com.newrelic INFO: Host name is DESKTOP-Q9QGGL2, display host DESKTOP-Q9QGGL2 for application Number Random
+2021-08-03T00:39:05,120-0500 [16480 31] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2021-08-03T00:39:05,833-0500 [16480 31] com.newrelic INFO: Collector redirection to collector-004.newrelic.com:443
+2021-08-03T00:39:06,249-0500 [16480 31] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-08-03T00:39:06,249-0500 [16480 31] com.newrelic INFO: Agent run id: Ba-IKIK0vFw8ADGesTzYeKZhCNbsAAIBAAAnIQEAAEBgAgQ82HiiAwAFNy4xLjEAD0RFU0tUT1AtUTlRR0dMMgANTnVtYmVyIFJhbmRvbQ
+2021-08-03T00:39:06,250-0500 [16480 31] com.newrelic INFO: Agent 16480@DESKTOP-Q9QGGL2/Number Random connected to collector.newrelic.com:443
+2021-08-03T00:39:06,250-0500 [16480 31] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3251889/applications/1020819618
+2021-08-03T00:39:06,251-0500 [16480 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:39:06,251-0500 [16480 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:39:06,251-0500 [16480 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:39:06,253-0500 [16480 31] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-08-03T00:39:06,253-0500 [16480 31] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2021-08-03T00:39:06,253-0500 [16480 31] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2021-08-03T00:39:06,633-0500 [16480 31] com.newrelic INFO: Real user monitoring is enabled for application Number Random. Auto instrumentation is enabled.
+2021-08-03T00:39:06,633-0500 [16480 31] com.newrelic WARN: Not starting JFR Service. Core JFR APIs do not exist in this JVM.
+2021-08-03T00:44:20,413-0500 [16480 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-08-03T00:44:20,458-0500 [16480 55] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@eeb0c72 tried to finish but ServiceManager not started
+2021-08-03T00:44:20,686-0500 [16480 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
